@@ -34,7 +34,7 @@ This project utilizes the following core packages to deliver a seamless experien
 
 | Splash Screen | Home Screen | Playlist Screen | Player Screen | Dark Mode |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="screenshots/dark.png.png" width="150"/> | <img src="screenshots/home.png.png" width="150"/> | <img src="screenshots/playlist.png.png" width="150"/> | <img src="screenshots/player.png.png" width="150"/> | <img src="screenshots/dark.png.png" width="150"/> |
+| <img src="screenshots/splash.png.png" width="150"/> | <img src="screenshots/home.png.png" width="150"/> | <img src="screenshots/playlist.png.png" width="150"/> | <img src="screenshots/player.png.png" width="150"/> | <img src="screenshots/dark.png.png" width="150"/> |
 
 ---
 
